@@ -1,0 +1,14 @@
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\obj\Debug\RepoTest.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\obj\Debug\RepoTest.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\RepoTest.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\RepoTest.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\obj\Debug\RepoTest.csproj.CopyComplete
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\obj\Debug\RepoTest.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\RepoTest\obj\Debug\RepoTest.pdb

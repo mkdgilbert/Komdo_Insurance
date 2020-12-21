@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\bin\Debug\Komodo_UI.exe.config
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\bin\Debug\Komodo_UI.exe
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\bin\Debug\Komodo_UI.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\obj\Debug\Program_Console.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\obj\Debug\Komodo_UI.exe
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\obj\Debug\Komodo_UI.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\obj\Debug\Program_Console.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\bin\Debug\KomodoTest.dll
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\bin\Debug\KomodoTest.pdb
+C:\Users\Mike\Documents\ElevenFiftyProjects\Test\KomodoTest\Komodo_UI\obj\Debug\Program_Console.csproj.CopyComplete
